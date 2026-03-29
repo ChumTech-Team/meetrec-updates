@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MeetRec</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 29 Mar 2026 19:38:21 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://chumtech-team.github.io/meetrec-updates/MeetRec.dmg" length="21889517" type="application/octet-stream" sparkle:edSignature="kqTJcUQdO6Vp9BNp4e0KZCNhE+09DKeVZ+P36FMl1IqwKPEaBakQo+qP6Q6nESxUTlVabTNpEizZu3DLId4fCg=="/>
+        </item>
+    </channel>
+</rss>
