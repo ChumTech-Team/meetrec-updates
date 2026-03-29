@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://chumtech-team.github.io/meetrec-updates/MeetRec.dmg" length="21889517" type="application/octet-stream" sparkle:edSignature="kqTJcUQdO6Vp9BNp4e0KZCNhE+09DKeVZ+P36FMl1IqwKPEaBakQo+qP6Q6nESxUTlVabTNpEizZu3DLId4fCg=="/>
+            <enclosure url="https://chumtech-team.github.io/meetrec-updates/MeetRec.dmg" length="21889678" type="application/octet-stream" sparkle:edSignature="0w8BfWyUDwhRNxRaPpJNlIfGnKxxVodvCrF6744MBC2sZOqOhiCgbo9ONVG8qG84A3Ihs4WSPoAKtmc9NxJBBQ=="/>
         </item>
     </channel>
 </rss>
