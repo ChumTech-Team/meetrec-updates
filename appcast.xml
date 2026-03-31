@@ -3,6 +3,14 @@
     <channel>
         <title>MeetRec</title>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Sun, 29 Mar 2026 19:38:21 +0900</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://chumtech-team.github.io/meetrec-updates/MeetRec.dmg" length="21943059" type="application/octet-stream" sparkle:edSignature="W5SWSnS/IrSNDe0h2Py31CLHWcKgj8kod+HGajfvOQTxoGH2EdQbbVhMkb6uad4b2tQKJMpWEtzitffoCHx7Bw=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Sun, 29 Mar 2026 19:38:21 +0900</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <enclosure url="https://chumtech-team.github.io/meetrec-updates/MeetRec.dmg" length="21915424" type="application/octet-stream" sparkle:edSignature="7lWE9ASbf6OfPjDguti2T6QVDKThAc3VqqFOcAXyefBjU/tAws/C1H86nsFmZ7iJ07MxhQu2ioCjxdIxL6h1Dg=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Sun, 29 Mar 2026 19:38:21 +0900</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://chumtech-team.github.io/meetrec-updates/MeetRec.dmg" length="21914625" type="application/octet-stream" sparkle:edSignature="+16dTjw00lfrcrtSmNfaLBaXKYACHKIoXs0zrjg/3dzBMOFxDwF16P6SzUpWQ29nw03vj0msRuM1A3iOEBq2AQ=="/>
         </item>
     </channel>
 </rss>
